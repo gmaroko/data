@@ -1,9 +1,29 @@
 {
-  "description": "",
-  "recorded": "",
-  "speakers": [],
+  "description": "2017 foi o ano em que ocorreram mais Django Girls no Brasil. Em sua maioria, as organizadoradoras dos workshops também fazem parte das PyLadies. Venha conhecer um panorama de como foi o trabalho desse ano de trazer mais mulheres pro mundo da tecnologia.",
+  "language": "por",
+  "recorded": "2017-10-08",
+  "related_urls": [
+    {
+      "label": "Talk slides",
+      "url": "https://pt.slideshare.net/ThaisViana6/pyladies-py-br-2017"
+    }
+  ],
+  "speakers": [
+    "PyLadies Brasil",
+    "Debora Azevedo",
+    "Thais Viana",
+    "Talita Rossari",
+    "Ana Paula Mendes",
+    "Cris Motinha",
+    "Beatriz Uezu",
+    "Claudia Strm"
+  ],
+  "tags": [
+    "diversity",
+    "women"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/y2syVuMQqrQ/hqdefault.jpg",
-  "title": "PyLadies e Django Girls promovendo a diversidade na tecnologia - Pyladies Brasil",
+  "title": "PyLadies e Django Girls promovendo a diversidade na tecnologia",
   "videos": [
     {
       "type": "youtube",
