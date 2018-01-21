@@ -1,0 +1,13 @@
+{
+  "description": "Desenvolvedores sabem: n\u00e3o existe software livre de bugs. Crises s\u00e3o iminentes. Como mitigar, ent\u00e3o, seu potencial danoso? Como gerenciar, por exemplo, um bug que afeta metade dos usu\u00e1rios de um sistema? Nesta talk eu irei compartilhar, entre outros casos, minha experi\u00eancia gerenciando crises de um sistema de assinaturas sediado em NY. Iremos ver diferentes cases, poss\u00edveis fragilidades de c\u00f3digo que podem levar a bugs graves e o passo a passo de processos de gest\u00e3o de crises. Finalmente, veremos como lidar com a expectativa do cliente, desde a descoberta do bug at\u00e9 a recupera\u00e7\u00e3o dos dados afetados.",
+  "recorded": "",
+  "speakers": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/CSfzTTqMols/hqdefault.jpg",
+  "title": "Salvando Grandes Projetos - Lais Varej\u00e3o",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=CSfzTTqMols"
+    }
+  ]
+}
